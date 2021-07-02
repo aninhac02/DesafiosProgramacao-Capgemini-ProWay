@@ -2,7 +2,7 @@
 
 ###### DESCRIÇÃO ######
 
-calculadora.java é uma calculadora de alcance de anúncios. Essa calculadora faz o calculo aproximado de quantas visualizações um anúncio receberá, baseado no valor em reais investido no anúncio.
+calculadora.java é uma calculadora de alcance de anúncios. Essa calculadora faz o cálculo aproximado de quantas visualizações um anúncio receberá, baseado no valor em reais investido no anúncio.
 
 ###### COMO USAR? ######
 
@@ -11,7 +11,7 @@ Para utlizar essa calculadora você deve seguir os passos abaixo:
 * Execute o programa calculadora.java em seu computador;
 * Insira no campo indicado o valor em reais que será investido no anúncio.
 
-###### COMO É FEITO ESSE CALCÚLO? ######
+###### COMO É FEITO ESSE CÁLCULO? ######
 
 De maneira simplificada:
 
